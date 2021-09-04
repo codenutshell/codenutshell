@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @codenutshell
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning TypeScript
